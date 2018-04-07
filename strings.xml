@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Farmers Friend</string>
+    <string name="title_activity_answer">Answer</string>
+    <string name="app_label">Search</string>
+    <string name="app_hint">Search Me</string>
+    <string name="a1_modern_agriculture_has_seen_many_changes_in_the_last_few_decades_today_farmers_use_sensors_aerial_images_gps_and_more_to_increase_yields_and_efficiency_this_technology_also_has_allowed_farmers_to_treat_crops_with_pesticides_and_fertilizers_with_much_more_precision_they_are_able_to_focus_on_certain_sectors_of_a_field_or_a_down_to_a_single_plant_instead_of_spraying_the_entire_field_these_tactics_results_in_lower_food_prices_reduced_impacts_on_natural_resources_and_increased_workers_safety">A1.Modern agriculture has seen many changes in the last few decades.Today, farmers use sensors,aerial images,GPS and more to increase yields and efficiency .This technology also has allowed farmers to treat crops with pesticides and fertilizers with much more precision.They are able to focus on certain sectors of a field or a down to a single plant,instead of spraying the entire field.These tactics results in lower food prices,reduced impacts on natural resources and increased workers safety</string>
+    <string name="title_activity_vedio">Vedio</string>
+    <string name="a1">ਏ 1.ਪੁਰਾਣੀ ਖੇਤੀਬਾੜੀ ਪਿਛਲੇ ਕੁਝ ਦਹਾਕਿਆਂ ਵਿੱਚ ਬਹੁਤ ਸਾਰੇ ਬਦਲਾਵਾਂ ਨੂੰ ਵੇਖੀ ਹੈ. ਅੱਜ, ਕਿਸਾਨਾਂ ਨੇ ਸੇਨਸਰਾਂ, ਏਰੀਅਲ ਚਿੱਤਰਾਂ, ਜੀਪੀਐਸ ਅਤੇ ਉਪਜ ਅਤੇ ਕਾਰਜਕੁਸ਼ਲਤਾ ਨੂੰ ਵਧਾਉਣ ਲਈ ਬਹੁਤ ਕੁਝ ਵਰਤਿਆ ਹੈ .ਇਹ ਤਕਨਾਲੋਜੀ ਨੇ ਕਿਸਾਨਾਂ ਨੂੰ ਕੀਟਨਾਸ਼ਕਾਂ ਅਤੇ ਖਾਦਾਂ ਦੇ ਨਾਲ ਫਸਲਾਂ ਦਾ ਹੋਰ ਜਿਆਦਾ ਸਟੀਕਤਾ ਨਾਲ ਵਰਤਣ ਦੀ ਇਜਾਜ਼ਤ ਦਿੱਤੀ ਹੈ. ਉਹ ਪੂਰੇ ਖੇਤਰ ਨੂੰ ਛਿੜਣ ਦੀ ਬਜਾਏ ਇੱਕ ਖੇਤਰ ਦੇ ਕੁਝ ਖੇਤਰਾਂ ਜਾਂ ਹੇਠਾਂ ਇਕੋ ਪੌਦੇ 'ਤੇ ਕੇਂਦ੍ਰਤ ਕਰਨ ਦੇ ਯੋਗ ਹੁੰਦੇ ਹਨ. ਇਹਨਾਂ ਰਣਨੀਤੀਆਂ ਦੇ ਨਤੀਜੇ ਘੱਟ ਭੋਜਨ ਦੀਆਂ ਕੀਮਤਾਂ ਵਿੱਚ, ਕੁਦਰਤੀ ਸਰੋਤਾਂ ਅਤੇ ਪ੍ਰਭਾਵਤ ਕਰਮਚਾਰੀਆਂ ਦੀ ਸੁਰੱਖਿਆ' ਤੇ ਘੱਟ ਪ੍ਰਭਾਵ ਪਾਉਂਦੇ ਹਨ.</string>
+
+</resources>
